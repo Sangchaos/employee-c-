@@ -35,7 +35,9 @@ namespace CONGTY
             new Iphone("iphone16", new Date(2024, 9, 20), "Trắng", "Apple", 829f),
             new Samsung("samsungS22", new Date(2022, 2, 25), "Nâu Đỏ ", "Samsung", 750f),
             new Samsung("samsungS23", new Date(2023, 2, 17), "Hồng Trắng", "Samsung", 790f),
-            new Samsung("samsungS24", new Date(2024, 2, 9), "Đen Xám", "Samsung", 849f)
+            new Samsung("samsungS24", new Date(2024, 2, 9), "Đen Xám", "Samsung", 849f),
+            new LG("lgG8ThinQ", new Date(2022, 2, 9), "Đen", "LG", 720f),
+            new LG("lgV50ThinQ", new Date(2022, 6, 27), "Đen", "LG", 770f)
         };
         public void AddDevice(Devices device)
         {

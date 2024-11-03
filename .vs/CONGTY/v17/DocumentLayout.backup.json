@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "S:\\WINFORM\\congty\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{021BE4E2-D5F6-45DD-83B9-806C6745B026}|CONGTY\\CONGTY.csproj|S:\\WINFORM\\congty\\congty\\storeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{021BE4E2-D5F6-45DD-83B9-806C6745B026}|CONGTY\\CONGTY.csproj|solutionrelative:congty\\storeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{021BE4E2-D5F6-45DD-83B9-806C6745B026}|CONGTY\\CONGTY.csproj|s:\\winform\\congty\\congty\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{021BE4E2-D5F6-45DD-83B9-806C6745B026}|CONGTY\\CONGTY.csproj|solutionrelative:congty\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{021BE4E2-D5F6-45DD-83B9-806C6745B026}|CONGTY\\CONGTY.csproj|s:\\winform\\congty\\congty\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{021BE4E2-D5F6-45DD-83B9-806C6745B026}|CONGTY\\CONGTY.csproj|S:\\WINFORM\\congty\\congty\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{021BE4E2-D5F6-45DD-83B9-806C6745B026}|CONGTY\\CONGTY.csproj|solutionrelative:congty\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{021BE4E2-D5F6-45DD-83B9-806C6745B026}|CONGTY\\CONGTY.csproj|S:\\WINFORM\\congty\\congty\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{021BE4E2-D5F6-45DD-83B9-806C6745B026}|CONGTY\\CONGTY.csproj|solutionrelative:congty\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{021BE4E2-D5F6-45DD-83B9-806C6745B026}|CONGTY\\CONGTY.csproj|S:\\WINFORM\\congty\\congty\\storeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{021BE4E2-D5F6-45DD-83B9-806C6745B026}|CONGTY\\CONGTY.csproj|solutionrelative:congty\\storeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{021BE4E2-D5F6-45DD-83B9-806C6745B026}|CONGTY\\CONGTY.csproj|S:\\WINFORM\\congty\\congty\\frmemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,11 +35,7 @@
       "RelativeMoniker": "D:0:0:{021BE4E2-D5F6-45DD-83B9-806C6745B026}|CONGTY\\CONGTY.csproj|solutionrelative:congty\\mohinh.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{021BE4E2-D5F6-45DD-83B9-806C6745B026}|CONGTY\\CONGTY.csproj|S:\\WINFORM\\congty\\congty\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{021BE4E2-D5F6-45DD-83B9-806C6745B026}|CONGTY\\CONGTY.csproj|solutionrelative:congty\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{021BE4E2-D5F6-45DD-83B9-806C6745B026}|CONGTY\\CONGTY.csproj|s:\\winform\\congty\\congty\\frmshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{021BE4E2-D5F6-45DD-83B9-806C6745B026}|CONGTY\\CONGTY.csproj|S:\\WINFORM\\congty\\congty\\frmshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{021BE4E2-D5F6-45DD-83B9-806C6745B026}|CONGTY\\CONGTY.csproj|solutionrelative:congty\\frmshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -111,10 +115,6 @@
       "RelativeMoniker": "D:0:0:{021BE4E2-D5F6-45DD-83B9-806C6745B026}|CONGTY\\CONGTY.csproj|solutionrelative:congty\\houlyworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{021BE4E2-D5F6-45DD-83B9-806C6745B026}|CONGTY\\CONGTY.csproj|S:\\WINFORM\\congty\\congty\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{021BE4E2-D5F6-45DD-83B9-806C6745B026}|CONGTY\\CONGTY.csproj|solutionrelative:congty\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{021BE4E2-D5F6-45DD-83B9-806C6745B026}|CONGTY\\CONGTY.csproj|S:\\WINFORM\\congty\\congty\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{021BE4E2-D5F6-45DD-83B9-806C6745B026}|CONGTY\\CONGTY.csproj|solutionrelative:congty\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -130,7 +130,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -142,58 +142,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Salary.cs",
-              "DocumentMoniker": "S:\\WINFORM\\congty\\CONGTY\\Salary.cs",
-              "RelativeDocumentMoniker": "CONGTY\\Salary.cs",
-              "ToolTip": "S:\\WINFORM\\congty\\CONGTY\\Salary.cs",
-              "RelativeToolTip": "CONGTY\\Salary.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Boss.cs",
+              "DocumentMoniker": "S:\\WINFORM\\congty\\CONGTY\\Boss.cs",
+              "RelativeDocumentMoniker": "CONGTY\\Boss.cs",
+              "ToolTip": "S:\\WINFORM\\congty\\CONGTY\\Boss.cs",
+              "RelativeToolTip": "CONGTY\\Boss.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T11:24:51.163Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "frmShop.cs [Design]",
-              "DocumentMoniker": "S:\\WINFORM\\congty\\CONGTY\\frmShop.cs",
-              "RelativeDocumentMoniker": "CONGTY\\frmShop.cs",
-              "ToolTip": "S:\\WINFORM\\congty\\CONGTY\\frmShop.cs [Design]",
-              "RelativeToolTip": "CONGTY\\frmShop.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T09:03:21.832Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IGSM.cs",
-              "DocumentMoniker": "S:\\WINFORM\\congty\\CONGTY\\IGSM.cs",
-              "RelativeDocumentMoniker": "CONGTY\\IGSM.cs",
-              "ToolTip": "S:\\WINFORM\\congty\\CONGTY\\IGSM.cs",
-              "RelativeToolTip": "CONGTY\\IGSM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T08:12:25.468Z",
+              "WhenOpened": "2024-10-10T06:50:44.093Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Iphone.cs",
-              "DocumentMoniker": "S:\\WINFORM\\congty\\CONGTY\\Iphone.cs",
-              "RelativeDocumentMoniker": "CONGTY\\Iphone.cs",
-              "ToolTip": "S:\\WINFORM\\congty\\CONGTY\\Iphone.cs",
-              "RelativeToolTip": "CONGTY\\Iphone.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T08:37:22.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "IWifi.cs",
               "DocumentMoniker": "S:\\WINFORM\\congty\\CONGTY\\IWifi.cs",
               "RelativeDocumentMoniker": "CONGTY\\IWifi.cs",
@@ -201,24 +163,22 @@
               "RelativeToolTip": "CONGTY\\IWifi.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T08:13:44.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T08:13:44.058Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "frmEmployee.cs [Design]",
               "DocumentMoniker": "S:\\WINFORM\\congty\\CONGTY\\frmEmployee.cs",
               "RelativeDocumentMoniker": "CONGTY\\frmEmployee.cs",
               "ToolTip": "S:\\WINFORM\\congty\\CONGTY\\frmEmployee.cs [Design]",
               "RelativeToolTip": "CONGTY\\frmEmployee.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T06:29:43.345Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-10T06:29:43.345Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Date.cs",
               "DocumentMoniker": "S:\\WINFORM\\congty\\CONGTY\\Date.cs",
               "RelativeDocumentMoniker": "CONGTY\\Date.cs",
@@ -226,25 +186,23 @@
               "RelativeToolTip": "CONGTY\\Date.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAA+wBYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T06:31:38.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T06:31:38.939Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Employee.cs",
               "DocumentMoniker": "S:\\WINFORM\\congty\\CONGTY\\Employee.cs",
               "RelativeDocumentMoniker": "CONGTY\\Employee.cs",
               "ToolTip": "S:\\WINFORM\\congty\\CONGTY\\Employee.cs",
               "RelativeToolTip": "CONGTY\\Employee.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T06:44:56.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T06:44:56.849Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "frmEmployee.cs",
               "DocumentMoniker": "S:\\WINFORM\\congty\\CONGTY\\frmEmployee.cs",
               "RelativeDocumentMoniker": "CONGTY\\frmEmployee.cs",
@@ -252,12 +210,11 @@
               "RelativeToolTip": "CONGTY\\frmEmployee.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAqwEUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T07:26:36.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T07:26:36.493Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "StoreForm.cs",
               "DocumentMoniker": "S:\\WINFORM\\congty\\CONGTY\\StoreForm.cs",
               "RelativeDocumentMoniker": "CONGTY\\StoreForm.cs",
@@ -265,58 +222,54 @@
               "RelativeToolTip": "CONGTY\\StoreForm.cs",
               "ViewState": "AgIAADQAAAAAAAAAAAAhwEQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T08:12:33.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T08:12:33.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Salary.cs",
+              "DocumentMoniker": "S:\\WINFORM\\congty\\CONGTY\\Salary.cs",
+              "RelativeDocumentMoniker": "CONGTY\\Salary.cs",
+              "ToolTip": "S:\\WINFORM\\congty\\CONGTY\\Salary.cs",
+              "RelativeToolTip": "CONGTY\\Salary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T11:24:51.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Iphone.cs",
+              "DocumentMoniker": "S:\\WINFORM\\congty\\CONGTY\\Iphone.cs",
+              "RelativeDocumentMoniker": "CONGTY\\Iphone.cs",
+              "ToolTip": "S:\\WINFORM\\congty\\CONGTY\\Iphone.cs",
+              "RelativeToolTip": "CONGTY\\Iphone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:37:22.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IGSM.cs",
+              "DocumentMoniker": "S:\\WINFORM\\congty\\CONGTY\\IGSM.cs",
+              "RelativeDocumentMoniker": "CONGTY\\IGSM.cs",
+              "ToolTip": "S:\\WINFORM\\congty\\CONGTY\\IGSM.cs",
+              "RelativeToolTip": "CONGTY\\IGSM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:12:25.468Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "IGPRS.cs",
-              "DocumentMoniker": "S:\\WINFORM\\congty\\CONGTY\\IGPRS.cs",
-              "RelativeDocumentMoniker": "CONGTY\\IGPRS.cs",
-              "ToolTip": "S:\\WINFORM\\congty\\CONGTY\\IGPRS.cs",
-              "RelativeToolTip": "CONGTY\\IGPRS.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Title": "frmShop.cs [Design]",
+              "DocumentMoniker": "S:\\WINFORM\\congty\\CONGTY\\frmShop.cs",
+              "RelativeDocumentMoniker": "CONGTY\\frmShop.cs",
+              "ToolTip": "S:\\WINFORM\\congty\\CONGTY\\frmShop.cs [Design]",
+              "RelativeToolTip": "CONGTY\\frmShop.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T08:13:08.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "I5G.cs",
-              "DocumentMoniker": "S:\\WINFORM\\congty\\CONGTY\\I5G.cs",
-              "RelativeDocumentMoniker": "CONGTY\\I5G.cs",
-              "ToolTip": "S:\\WINFORM\\congty\\CONGTY\\I5G.cs",
-              "RelativeToolTip": "CONGTY\\I5G.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T05:53:56.709Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MoHinh.cd",
-              "DocumentMoniker": "S:\\WINFORM\\congty\\CONGTY\\MoHinh.cd",
-              "RelativeDocumentMoniker": "CONGTY\\MoHinh.cd",
-              "ToolTip": "S:\\WINFORM\\congty\\CONGTY\\MoHinh.cd",
-              "RelativeToolTip": "CONGTY\\MoHinh.cd",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2024-10-10T06:30:17.462Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "StoreForm.cs [Design]",
-              "DocumentMoniker": "S:\\WINFORM\\congty\\CONGTY\\StoreForm.cs",
-              "RelativeDocumentMoniker": "CONGTY\\StoreForm.cs",
-              "ToolTip": "S:\\WINFORM\\congty\\CONGTY\\StoreForm.cs [Design]",
-              "RelativeToolTip": "CONGTY\\StoreForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T12:46:10.412Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-24T09:03:21.832Z"
             },
             {
               "$type": "Bookmark",
@@ -324,7 +277,53 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IGPRS.cs",
+              "DocumentMoniker": "S:\\WINFORM\\congty\\CONGTY\\IGPRS.cs",
+              "RelativeDocumentMoniker": "CONGTY\\IGPRS.cs",
+              "ToolTip": "S:\\WINFORM\\congty\\CONGTY\\IGPRS.cs",
+              "RelativeToolTip": "CONGTY\\IGPRS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:13:08.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "I5G.cs",
+              "DocumentMoniker": "S:\\WINFORM\\congty\\CONGTY\\I5G.cs",
+              "RelativeDocumentMoniker": "CONGTY\\I5G.cs",
+              "ToolTip": "S:\\WINFORM\\congty\\CONGTY\\I5G.cs",
+              "RelativeToolTip": "CONGTY\\I5G.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T05:53:56.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MoHinh.cd",
+              "DocumentMoniker": "S:\\WINFORM\\congty\\CONGTY\\MoHinh.cd",
+              "RelativeDocumentMoniker": "CONGTY\\MoHinh.cd",
+              "ToolTip": "S:\\WINFORM\\congty\\CONGTY\\MoHinh.cd",
+              "RelativeToolTip": "CONGTY\\MoHinh.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-10-10T06:30:17.462Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "StoreForm.cs [Design]",
+              "DocumentMoniker": "S:\\WINFORM\\congty\\CONGTY\\StoreForm.cs",
+              "RelativeDocumentMoniker": "CONGTY\\StoreForm.cs",
+              "ToolTip": "S:\\WINFORM\\congty\\CONGTY\\StoreForm.cs [Design]",
+              "RelativeToolTip": "CONGTY\\StoreForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:46:10.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Commissionworker.cs",
               "DocumentMoniker": "S:\\WINFORM\\congty\\CONGTY\\Commissionworker.cs",
               "RelativeDocumentMoniker": "CONGTY\\Commissionworker.cs",
@@ -332,12 +331,11 @@
               "RelativeToolTip": "CONGTY\\Commissionworker.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T07:05:04.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T07:05:04.467Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "frmShop.cs",
               "DocumentMoniker": "S:\\WINFORM\\congty\\CONGTY\\frmShop.cs",
               "RelativeDocumentMoniker": "CONGTY\\frmShop.cs",
@@ -349,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "StoreForm.Designer.cs",
               "DocumentMoniker": "S:\\WINFORM\\congty\\CONGTY\\StoreForm.Designer.cs",
               "RelativeDocumentMoniker": "CONGTY\\StoreForm.Designer.cs",
@@ -357,12 +355,11 @@
               "RelativeToolTip": "CONGTY\\StoreForm.Designer.cs",
               "ViewState": "AgIAALwAAAAAAAAAAAAUwM0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T08:30:35.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T08:30:35.695Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "S:\\WINFORM\\congty\\CONGTY\\Program.cs",
               "RelativeDocumentMoniker": "CONGTY\\Program.cs",
@@ -370,8 +367,7 @@
               "RelativeToolTip": "CONGTY\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T07:58:04.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T07:58:04.404Z"
             },
             {
               "$type": "Document",
@@ -383,8 +379,7 @@
               "RelativeToolTip": "CONGTY\\LoginForm.Designer.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAUwEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T02:42:18.262Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T02:42:18.262Z"
             },
             {
               "$type": "Document",
@@ -400,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "frmShop.Designer.cs",
               "DocumentMoniker": "S:\\WINFORM\\congty\\CONGTY\\frmShop.Designer.cs",
               "RelativeDocumentMoniker": "CONGTY\\frmShop.Designer.cs",
@@ -412,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "StorePhones.cs",
               "DocumentMoniker": "S:\\WINFORM\\congty\\CONGTY\\StorePhones.cs",
               "RelativeDocumentMoniker": "CONGTY\\StorePhones.cs",
@@ -420,12 +415,11 @@
               "RelativeToolTip": "CONGTY\\StorePhones.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T06:58:57.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T06:58:57.858Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "LQ.cs",
               "DocumentMoniker": "S:\\WINFORM\\congty\\CONGTY\\LQ.cs",
               "RelativeDocumentMoniker": "CONGTY\\LQ.cs",
@@ -433,12 +427,11 @@
               "RelativeToolTip": "CONGTY\\LQ.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T08:57:50.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T08:57:50.344Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Samsung.cs",
               "DocumentMoniker": "S:\\WINFORM\\congty\\CONGTY\\Samsung.cs",
               "RelativeDocumentMoniker": "CONGTY\\Samsung.cs",
@@ -446,12 +439,11 @@
               "RelativeToolTip": "CONGTY\\Samsung.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T08:48:43.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T08:48:43.963Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Devices.cs",
               "DocumentMoniker": "S:\\WINFORM\\congty\\CONGTY\\Devices.cs",
               "RelativeDocumentMoniker": "CONGTY\\Devices.cs",
@@ -459,12 +451,11 @@
               "RelativeToolTip": "CONGTY\\Devices.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T08:38:28.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T08:38:28.863Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "LoginForm.cs",
               "DocumentMoniker": "S:\\WINFORM\\congty\\CONGTY\\LoginForm.cs",
               "RelativeDocumentMoniker": "CONGTY\\LoginForm.cs",
@@ -472,24 +463,22 @@
               "RelativeToolTip": "CONGTY\\LoginForm.cs",
               "ViewState": "AgIAABMAAAAAAAAAAADwvx4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T08:29:09.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T08:29:09.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "LoginForm.cs [Design]",
               "DocumentMoniker": "S:\\WINFORM\\congty\\CONGTY\\LoginForm.cs",
               "RelativeDocumentMoniker": "CONGTY\\LoginForm.cs",
               "ToolTip": "S:\\WINFORM\\congty\\CONGTY\\LoginForm.cs [Design]",
               "RelativeToolTip": "CONGTY\\LoginForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T08:29:02.204Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-10T08:29:02.204Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "frmEmployee.Designer.cs",
               "DocumentMoniker": "S:\\WINFORM\\congty\\CONGTY\\frmEmployee.Designer.cs",
               "RelativeDocumentMoniker": "CONGTY\\frmEmployee.Designer.cs",
@@ -497,12 +486,11 @@
               "RelativeToolTip": "CONGTY\\frmEmployee.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T07:26:08.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T07:26:08.674Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Houlyworker.cs",
               "DocumentMoniker": "S:\\WINFORM\\congty\\CONGTY\\Houlyworker.cs",
               "RelativeDocumentMoniker": "CONGTY\\Houlyworker.cs",
@@ -510,21 +498,7 @@
               "RelativeToolTip": "CONGTY\\Houlyworker.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T07:02:16.991Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Boss.cs",
-              "DocumentMoniker": "S:\\WINFORM\\congty\\CONGTY\\Boss.cs",
-              "RelativeDocumentMoniker": "CONGTY\\Boss.cs",
-              "ToolTip": "S:\\WINFORM\\congty\\CONGTY\\Boss.cs",
-              "RelativeToolTip": "CONGTY\\Boss.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T06:50:44.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T07:02:16.991Z"
             }
           ]
         }

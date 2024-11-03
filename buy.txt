@@ -68,3 +68,10 @@ Color: Nâu Đỏ
 Producer: Samsung
 Price: 750$
 
+Mua hàng vào lúc: 03/11/2024 3:39:39 CH
+Device Name: iphone14
+Year of Manufacture: 2022/9/16
+Color: Tím
+Producer: Apple
+Price: 780$
+

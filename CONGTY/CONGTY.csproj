@@ -121,6 +121,8 @@
     <Content Include="Resources\iphone14.jpg" />
     <Content Include="Resources\iphone15.jpg" />
     <Content Include="Resources\iphone16.jpg" />
+    <Content Include="Resources\lgG8ThinQ.jpg" />
+    <Content Include="Resources\lgV50ThinQ.jpg" />
     <Content Include="Resources\samsungS22.jpg" />
     <Content Include="Resources\samsungS23.jpg" />
     <Content Include="Resources\samsungS24.jpg" />
