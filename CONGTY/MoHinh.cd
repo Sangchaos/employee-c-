@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CONGTY.Date">
+    <Position X="2.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAAAAAAAAAAAEAAAAAAEAAAQAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Date.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CONGTY.Employee">
+    <Position X="4.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAACAAAAEgAAAAAwAAAAMCAACAAgAAAAAAgA=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CONGTY.Salary">
+    <Position X="6.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAEAAAAAAAAAAAAAAAAAEAAAAAgAAA=</HashCode>
+      <FileName>Salary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CONGTY.Boss">
+    <Position X="2.75" Y="4.25" Width="1.5" />
+    <InheritanceLine Type="CONGTY.Employee" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.5" Y="4.929" />
+        <Point X="5.5" Y="3.699" />
+        <Point X="3.408" Y="3.699" />
+        <Point X="3.408" Y="4.236" />
+        <Point X="3.562" Y="4.236" />
+        <Point X="3.562" Y="4.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Boss.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CONGTY.Houlyworker">
+    <Position X="4.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Houlyworker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CONGTY.Commissionworker">
+    <Position X="7.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Commissionworker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CONGTY.Devices">
+    <Position X="3.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABEAAAAQAAAAAEAABAABBAQACQQACAAAAAgAAAAAA=</HashCode>
+      <FileName>Devices.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CONGTY.Iphone">
+    <Position X="6.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEABAAAAAAAAAAAAAAAgAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Iphone.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CONGTY.LG">
+    <Position X="3.25" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LQ.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CONGTY.Samsung">
+    <Position X="1.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Samsung.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CONGTY.StorePhones">
+    <Position X="8.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEBAAAAAQAAAAAAAAAAAAAAIAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>StorePhones.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CONGTY.frmEmployee" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ciAAAAAAAKAQIDAAAAmMACBCAAAACEAAAAAAAAAgCiQ=</HashCode>
+      <FileName>frmEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CONGTY.frmShop" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gIAQAMAAJCCAQBIEEAKACAAGACAAABAwQAAAQBAAAkA=</HashCode>
+      <FileName>frmShop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CONGTY.LoginForm" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAACAAgJAAAACAAAACAAAAiACAABAAAABAAAI=</HashCode>
+      <FileName>LoginForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CONGTY.Program" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CONGTY.StoreForm" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAEABAACAAABCQAACEAAAGAAkEAEQAAgAAAAIQAAQ=</HashCode>
+      <FileName>StoreForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CONGTY.Properties.Settings" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="CONGTY.I5G">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>I5G.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CONGTY.IWifi">
+    <Position X="0.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>IWifi.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CONGTY.IGSM">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IGSM.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CONGTY.IGPRS">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IGPRS.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
